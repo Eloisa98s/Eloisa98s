@@ -2,7 +2,7 @@
 
 **`Engenheira de Dados`**
 
-Sou Eloisa Silva, de Osasco (SP), estudante de Análise e Desenvolvimento de Sistemas no Instituto Infnet. Estou focada em me tornar engenheira de dados, unindo conhecimento técnico e visão analítica para atuar com tratamento, estruturação e análise de dados. Tenho interesse em linguagens como Python, SQL e Java, além de ferramentas que apoiam a construção de soluções baseadas em dados. Acredito no poder da tecnologia para transformar realidades e compartilho minha evolução profissional com dedicação e curiosidade.
+Sou Eloisa Silva, de Osasco (SP), estudante de Análise e Desenvolvimento de Sistemas no Instituto Infnet, trilhando meu caminho rumo à engenharia de dados. Sou movida pela curiosidade e pelo desejo de transformar informação em insight. Com olhar analítico e mente inquieta, busco criar soluções que fazem sentido — e fazem a diferença. Acredito na tecnologia como uma ponte entre problemas reais e respostas inteligentes, e sigo aprendendo, testando e evoluindo um passo de cada vez.
 
 ### 🤖 Linguagens e Tecnologias
 
