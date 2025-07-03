@@ -6,22 +6,7 @@ Sou Eloisa Silva, de Osasco (SP), estudante de Análise e Desenvolvimento de Sis
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-       
-<img 
-    align="left" 
-    alt="AIRFLOW" 
-    title="AIRFLOW"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" 
-/>
+
 <img 
     align="left" 
     alt="AZURE"
@@ -30,14 +15,7 @@ Sou Eloisa Silva, de Osasco (SP), estudante de Análise e Desenvolvimento de Sis
     style="padding-right: 10px;" 
     img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" 
 />
-<img 
-    align="left" 
-    alt="SPARK" 
-    title="SPARK"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
-/>
+
 <img 
     align="left" 
     alt="SQL" 
